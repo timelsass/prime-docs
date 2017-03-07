@@ -61,7 +61,7 @@ Then run the clone script:
 ```shell
 $ bash clone
 ```
-## Manual Installation. ##
+## 3. Manual Installation. ##
 
 You can download the Prime parent theme from the github repo: https://github.com/BoldGrid/prime/archive/master.zip
 Unzip the file, into a folder in wp-content/themes.
